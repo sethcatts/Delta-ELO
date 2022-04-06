@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sethcatts/Delta-ELO/issues"
   },
-  "homepage": "https://github.com/sethcatts/Delta-ELO#readme"
+  "homepage": "https://github.com/sethcatts/Delta-ELO#readme",
+  "devDependencies": {
+    "electron": "^18.0.2"
+  }
 }
