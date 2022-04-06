@@ -1,0 +1,19 @@
+{
+  "name": "delta-elo",
+  "version": "1.0.0",
+  "description": "Delta ELO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethcatts/Delta-ELO.git"
+  },
+  "author": "Seth Catts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethcatts/Delta-ELO/issues"
+  },
+  "homepage": "https://github.com/sethcatts/Delta-ELO#readme"
+}
